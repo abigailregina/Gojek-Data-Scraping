@@ -11,6 +11,7 @@ How to obtain it?
 
 Insert the value using this code
 #Twitter auth token
+
 twitter_auth_token = 'value'
 
 Keep in mind that authentication token is not intended to be shared. If you want to share the code, it is better for you to make new account for sharing with your friends, do not use your personal account (unless you want others know your whole interactions and activities in Twitter these whole time☠️)
