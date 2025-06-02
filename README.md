@@ -1,7 +1,8 @@
-# Gojek-Data-Scraping
-Gojek data scraping for a four-month period
+# Gojek Data Scraping
+Twitter data scraping for a four-month period of 'gojek' keyword
 
 Insert your very own Twitter authentication token before you run the code 👍
+
 How to obtain it? 
 1. Open Twitter on browser
 2. Right click and select "Inspect"
