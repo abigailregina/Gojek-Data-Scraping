@@ -10,6 +10,7 @@ How to obtain it?
 5. Copy the value of "auth_token"
 
 Insert the value using this code
+
 #Twitter auth token
 
 twitter_auth_token = 'value'
